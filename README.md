@@ -8,13 +8,15 @@ How to use
 step 1. Include the jquery lib (jquery-1.7.2.min.js or later version) and bitslider.js
 
 step 2. Define your divs to slide
+	
+	<pre>	
 	eg.
 		<div class="main" id="main">
 			<div><span>Simple</span></div>
 			<div><span>Art</span></div>
 			<div><span>Product</span></div>
 		</div>
-	
+	</pre>
 step 3. Init your divs like this:
 
 	$(document).ready(function(){	
