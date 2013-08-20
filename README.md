@@ -3,7 +3,10 @@ bitslider
 
 A simpel and usefual jquery based web div slider tool .
 
-How to use
+![Image text](https://github.com/bitdesign/bitslider/trunk/imgs/slider.jpg)
+
+
+<h1>How to use it</h1>
 
 step 1. Include the jquery lib (jquery-1.7.2.min.js or later version) and bitslider.js
 
@@ -30,3 +33,7 @@ step 3. Init your divs like this:
 	Then the divs in main div will slide one each time.
 
 Or you can download the example to test it.
+
+
+
+
