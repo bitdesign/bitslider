@@ -1,0 +1,31 @@
+<!DOCTYPE html">
+<html>
+	<head>
+		<title>bitslider example</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="Keywords" content="bitslider" />
+		<meta name="Description" content="bitslider" />
+		<link href="css/show.css" rel="stylesheet" type="text/css" media="screen" />
+		<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+		<script type="text/javascript" src="js/bitslider.js"></script>
+		<script>
+			$(document).ready(function(){	
+				$("#main").bitSlider({
+					delay: 500,
+					space: 25,
+					showNum: true,
+					prenext: false
+				});
+			});
+			
+		</script>
+		
+	</head>
+	<body>
+				<div class="main" id="main">
+					<div><span>Simple</span></div>
+					<div><span>Art</span></div>
+					<div><span>Product</span></div>
+				</div>
+	</body>
+</html>
