@@ -3,7 +3,7 @@ bitslider
 
 A simpel and usefual jquery based web div slider tool .
 
-![Image text](https://github.com/bitdesign/bitslider/trunk/imgs/slider.jpg)
+![Image text](https://github.com/bitdesign/bitslider/imgs/slider.jpg)
 
 
 <h1>How to use it</h1>
